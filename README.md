@@ -81,3 +81,19 @@ I added a short period analysis and a compact summary table to the workbook:
 
 These additions are in the Excel workbook (`Malaria burden DALYs.xlsx`) on the new sheet named **Period Analysis**. They provide a concise, interpretable summary of the trend and the distinct sub-periods observed in the data. The analysis is descriptive and does not test causal explanations — potential drivers (e.g., interventions, floods, surveillance changes) are noted as hypotheses to explore in future work.
 
+### Update —12 Oct 2025: Trendline, Regression Added
+
+This update improves both the visualization and statistical interpretation of the data:
+
+**1. Chart improvements**
+- Added a **linear trendline** with equation and R² displayed on the chart.
+- Added a **mean DALYs rate line** for easy visual comparison with yearly fluctuations.
+- Updated the Y-axis title to **“DALYs rate — per 100,000 population”**.
+
+**2. Regression analysis**
+- Performed a **linear regression (2011–2021)** using Excel’s Data Analysis ToolPak.
+- Results show a **positive slope of +19.1 DALYs per year** and **R² = 0.696**, indicating a moderately strong upward trend.
+- Regression output is included in the workbook under the “Data Analysis” section.
+
+
+These additions make the workbook both visually informative and analytically sound, providing a clear picture of malaria DALY trends in Sudan from 2011 to 2021.
