@@ -62,3 +62,22 @@ If you have feedback, ideas, or collaboration suggestions, please open an issue 
 ---
 
 *This project is part of my transition from clinical dentistry to public health analytics and epidemiology. I am building my portfolio openly — learning in public.*
+
+### Update —12 Oct 2025: Period analysis & summary statistics
+
+I added a short period analysis and a compact summary table to the workbook:
+
+- **Period Analysis** — the 2011–2021 series is described as three periods:
+  - **2011–2016:** Rising (466.15 → 652.61) → **+40.0%**
+  - **2016–2018:** Declining (652.61 → 569.20) → **−12.8%**
+  - **2019–2021:** Rising again (567.00 → 659.47) → **+16.3%**
+
+- **Analysis Summary** — quick statistics for the whole period:
+  - Mean DALYs rate (2011–2021): **552.69** (per 100,000)
+  - Min: **459.7** (2012) | Max: **659.47** (2021)
+  - Change 2011→2021: **+41.47%**
+  - Linear trend (slope): **+19.1 DALYs per 100,000 per year** (R² ≈ 0.70)
+  - CAGR: **≈ 3.53% per year**
+
+These additions are in the Excel workbook (`Malaria burden DALYs.xlsx`) on the new sheet named **Period Analysis**. They provide a concise, interpretable summary of the trend and the distinct sub-periods observed in the data. The analysis is descriptive and does not test causal explanations — potential drivers (e.g., interventions, floods, surveillance changes) are noted as hypotheses to explore in future work.
+
