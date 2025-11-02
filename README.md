@@ -134,5 +134,51 @@ I added a second indicator and extended the workbook to include malaria **death 
 
 
 
-If you have feedback or data suggestions, please open an issue.
+## 🆕 Update — November 1, 2025: Floods and Malaria Trend Exploration (Sudan, 2013–2021)
+
+This update introduces a new dataset examining **flood-affected populations in Sudan (2013–2021)** to explore potential **environmental correlations** with malaria trends during the same period.
+
+---
+
+### 🗂️ Files Added
+
+- `Floods.xlsx` — dataset of people affected by floods (2013–2021), including a trendline visualization.  
+
+
+---
+
+### 🔍 Methods
+
+- Collected yearly data on the **number of people affected by floods** in Sudan (2013–2021).  
+- Cleaned and organized the data in Excel.  
+- Created a **line chart** with a **linear trendline** to visualize fluctuations and long-term direction.  
+- Compared this flood trend with previously analyzed **malaria DALYs** and **death rate** data (2011–2021).
+
+---
+
+### 📈 Key Observations (Preliminary)
+
+- Flood impact fluctuated significantly over the years, with a **notable peak in 2019** followed by a decline.  
+- This peak visually coincides with the **increase in malaria burden** observed after 2018.  
+- The overall **trendline** shows a mild upward direction, but the data are highly variable year to year.
+
+---
+
+### Interpretation
+
+These findings are **descriptive and exploratory**.  
+While they do **not confirm causation**, they highlight a potential link between **environmental events** and **disease burden** that merits deeper analysis.  
+Further investigation combining rainfall, flood exposure, and malaria surveillance data could strengthen understanding of how **climate variability** influences **public health outcomes** in Sudan.
+
+---
+
+### Next Steps
+
+- Align flood and malaria datasets by exact overlapping years (2013–2021).  
+- Calculate **correlation coefficients** (e.g., Pearson’s *r*) to quantify the relationship.  
+- Create a **combined visualization** overlaying malaria burden and flood-affected populations.  
+- Interpret results in the context of **climate resilience** and **health system preparedness**.
+
+---
+
 
