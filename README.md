@@ -134,20 +134,20 @@ I added a second indicator and extended the workbook to include malaria **death 
 
 
 
-## 🆕 Update — November 1, 2025: Floods and Malaria Trend Exploration (Sudan, 2013–2021)
+## Update — November 1, 2025: Floods and Malaria Trend Exploration (Sudan, 2013–2021)
 
 This update introduces a new dataset examining **flood-affected populations in Sudan (2013–2021)** to explore potential **environmental correlations** with malaria trends during the same period.
 
 ---
 
-### 🗂️ Files Added
+### Files Added
 
 - `Floods.xlsx` — dataset of people affected by floods (2013–2021), including a trendline visualization.  
 
 
 ---
 
-### 🔍 Methods
+###  Methods
 
 - Collected yearly data on the **number of people affected by floods** in Sudan (2013–2021).  
 - Cleaned and organized the data in Excel.  
@@ -156,7 +156,7 @@ This update introduces a new dataset examining **flood-affected populations in S
 
 ---
 
-### 📈 Key Observations (Preliminary)
+###  Key Observations (Preliminary)
 
 - Flood impact fluctuated significantly over the years, with a **notable peak in 2019** followed by a decline.  
 - This peak visually coincides with the **increase in malaria burden** observed after 2018.  
